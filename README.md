@@ -4,7 +4,7 @@
 This is a test crate for a future application and isn't currently
 very useful on its own.
 
-```
+```rust
 use std::fs::File;
 use excel_xmlwriter::XMLWriter;
 
